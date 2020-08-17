@@ -1,0 +1,16 @@
+Merhaba,
+
+Oncelikle bu case cok guzeldi, eksiklerime ragmen cok eglenceliydi ve ogreticiydi!
+
+- Kullandigim teknolojiler Selenium ve Cucumber.
+
+Takildigim yerler;
+
+- Tarayiciyi parametre olarak almak. Ayrica firefox icin geckodriver.exe path'im kendi local makinemde olan path. Oranin degiserek
+'.../geckodriver.exe' olmasi gerekiyor fakat kizardigi icin oyle biraktim.
+
+- Cogunlukla siteye girince 'FindBy' larimi bulmakta zorlandigi icin genellikle daha dogru olmasi amaciyla xpath kullandim.
+
+- Image load en zorlandigim kisimdi. Foreach looplarina sokmaya calisarak butun imagelari kontrol etmeye calistim.
+
+- POM mimari ile ilerledim.
